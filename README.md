@@ -1,4 +1,4 @@
-# compliance-to-WHO-guidelines-on-suicide-of-Italian-articles
+# Investigating suicide narratives in Italiannewspapers: linguistic framework and compliance to WHO guidelines
 
 Suicide Representation in Italian Media: A Computational Analysis
 
