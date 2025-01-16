@@ -16,6 +16,8 @@ This project investigates how suicides among university students are portrayed i
 
 **Most frequent words TF-IDF.png**: Most frequent keywords extracted via TF-IDF.
 
+**chart.png**: Lexical metrics of the articles.
+
 # Author
 
 Alessandra Carini
