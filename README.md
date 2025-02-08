@@ -4,7 +4,7 @@ Suicide Representation in Italian Media: A Computational Analysis
 
 # Overview
 
-This project investigates how suicides among university students are portrayed in Italian media using computational linguistic methods. Besides the analysis of lexical metrics, techniques like Named Entity Recognition (NER), TF-IDF, embeddings and cosine similarity evaluate the alignment of media articles with WHO guidelines for responsible reporting.
+This project investigates how suicides are portrayed in Italian media using computational linguistic methods. Besides the analysis of lexical metrics, techniques like Named Entity Recognition (NER), TF-IDF, embeddings and cosine similarity evaluate the alignment of media articles with WHO guidelines for responsible reporting.
 
 # Repository Contents
 
