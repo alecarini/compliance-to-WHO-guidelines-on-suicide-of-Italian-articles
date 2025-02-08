@@ -1,4 +1,4 @@
-# Investigating suicide narratives in Italiannewspapers: linguistic framework and compliance to WHO guidelines
+# Investigating suicide narratives in Italian newspapers: linguistic framework and compliance to WHO guidelines
 
 Suicide Representation in Italian Media: A Computational Analysis
 
